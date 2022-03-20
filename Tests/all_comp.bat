@@ -1,0 +1,23 @@
+call comp_arith.bat
+call comp_array.bat
+call comp_assert.bat
+call comp_bind.bat
+call comp_defun.bat
+call comp_dict.bat
+call comp_eq.bat
+call comp_go.bat
+call comp_if.bat
+call comp_import.bat
+call comp_intfunc.bat
+call comp_iterate.bat
+call comp_lib.bat
+call comp_list.bat
+call comp_loop.bat
+call comp_make_array.bat
+call comp_progn.bat
+call comp_quote.bat
+call comp_setq.bat
+call comp_string.bat
+call comp_test_intfunc.bat
+rem call comp_translateI.bat
+call comp_type.bat

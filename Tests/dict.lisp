@@ -1,0 +1,10 @@
+(defun main (a) 
+    (setq dct1 {a:1, b:2})
+    (print dct1)
+    (print (length dct1))
+    (setq v1 (item dct1 "a"))
+    (print v1)
+    (set_dict dct1 "c" 3)
+    (print dct1)
+)
+ 

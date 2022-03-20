@@ -1,0 +1,23 @@
+call start_arith.bat
+call start_array.bat
+call start_assert.bat
+call start_bind.bat
+call start_defun.bat
+call start_dict.bat
+call start_eq.bat
+call start_go.bat
+call start_if.bat
+call start_import.bat
+call start_intfunc.bat
+call start_iterate.bat
+call start_lib.bat
+call start_list.bat
+call start_loop.bat
+call start_make_array.bat
+call start_progn.bat
+call start_quote.bat
+call start_setq.bat
+call start_string.bat
+call start_test_intfunc.bat
+rem call start_translateI.bat
+call start_type.bat

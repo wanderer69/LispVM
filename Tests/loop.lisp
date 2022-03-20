@@ -1,0 +1,11 @@
+(defun main (a)
+        (setq i 10)
+	(loop (eq i 0) 
+		(print "yes")
+		(print "no")
+		(print a)
+        	(setq i (- i 1))
+        	(print i)
+	)
+)
+ 

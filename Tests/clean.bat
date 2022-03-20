@@ -1,0 +1,2 @@
+del *.comp
+del *.bin
